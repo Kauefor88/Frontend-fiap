@@ -45,7 +45,7 @@ O app oferece uma interface para:
 | Estilização  | Tailwind CSS                         |
 | Ícones       | lucide-react                         |
 | BFF consumido| [fiap-bff](https://github.com/jaisonschmidt/fiap-bff) (Node.js + Express + OpenAI) |
-| Deploy       | [ ] Netlify / Vercel / Render (escolher um) |
+| Deploy       | Vercel                               |
 
 ## 📂 Estrutura do projeto
 
@@ -109,10 +109,6 @@ Endpoint e método ficam fixos como constantes em `src/App.jsx` (`BFF_ENDPOINT` 
 3. Configure o **comando de build** como `npm run build` e o **diretório de saída** como `dist`.
 4. [ ] Preencher aqui a URL pública do site após o deploy: `https://frontend-fiap-cltg4cs3n-kauefor.vercel.app/`
 
-## 🔗 API própria (ponto extra)
-
-- [ ] Repositório da API própria: `https://github.com/Kauefor88/Frontend-fiap`
-- [ ] URL pública da API própria: `https://SUA-API.exemplo.com`
 
 ## 📊 Web Vitals (Lighthouse) — ponto extra
 
