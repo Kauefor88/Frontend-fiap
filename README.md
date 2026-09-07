@@ -6,9 +6,9 @@ Aplicação front-end desenvolvida para a disciplina **Front-end Engineering** (
 
 ## 👥 Integrantes
 
-- [ ] Nome completo do integrante 1
-- [ ] Nome completo do integrante 2
-- [ ] Nome completo do integrante 3
+- Ailton Lima de Andrade - RM365720
+- Julio Cezar Fagundes de Oliveira - RM369185
+- Kauê Fornielles de Abreu - RM368524
 
 ## 🎯 Finalidade do projeto
 
