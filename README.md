@@ -14,10 +14,9 @@ Aplicação front-end desenvolvida para a disciplina **Front-end Engineering** (
 
 O app oferece uma interface para:
 
-1. O usuário digitar um tema/assunto (ex.: "viagens", "tecnologia");
-2. A aplicação enviar esse tema ao BFF de palavras (`GET /ask`);
-3. O BFF devolver um array de objetos no formato abaixo;
-4. A aplicação montar um **jogo da memória**: cada palavra vira duas cartas — uma com a palavra em inglês e outra com seu significado — que o jogador precisa encontrar e combinar. Ao acertar um par, o exemplo de uso (`useCase`) é exibido no painel lateral.
+1. A aplicação enviar esse tema ao BFF de palavras (`GET /ask`);
+2. O BFF devolver um array de objetos no formato abaixo;
+3. A aplicação montar um **jogo da memória**: cada palavra vira duas cartas — uma com a palavra em inglês e outra com seu significado — que o jogador precisa encontrar e combinar. Ao acertar um par, o exemplo de uso (`useCase`) é exibido no painel lateral.
 
 ```json
 [
