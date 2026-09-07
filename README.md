@@ -107,11 +107,11 @@ Endpoint e método ficam fixos como constantes em `src/App.jsx` (`BFF_ENDPOINT` 
 1. Suba o projeto para um repositório público no GitHub.
 2. Conecte o repositório à plataforma de deploy escolhida (Netlify, Vercel ou Render).
 3. Configure o **comando de build** como `npm run build` e o **diretório de saída** como `dist`.
-4. [ ] Preencher aqui a URL pública do site após o deploy: `https://SEU-SITE.exemplo.com`
+4. [ ] Preencher aqui a URL pública do site após o deploy: `https://frontend-fiap-cltg4cs3n-kauefor.vercel.app/`
 
 ## 🔗 API própria (ponto extra)
 
-- [ ] Repositório da API própria: `https://github.com/SEU-USUARIO/SEU-REPO`
+- [ ] Repositório da API própria: `https://github.com/Kauefor88/Frontend-fiap`
 - [ ] URL pública da API própria: `https://SUA-API.exemplo.com`
 
 ## 📊 Web Vitals (Lighthouse) — ponto extra
