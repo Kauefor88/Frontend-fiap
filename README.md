@@ -118,8 +118,10 @@ Métricas
 [Monitoring.pdf](https://github.com/user-attachments/files/31958773/Monitoring.pdf)
 
 <img width="886" height="442" alt="image" src="https://github.com/user-attachments/assets/c30a9935-33dd-4e2b-80c7-35af9a17b685" />
-
-
+<img width="886" height="435" alt="image" src="https://github.com/user-attachments/assets/82f3d962-26b8-4487-aca1-07c449904c7c" />
+<img width="886" height="436" alt="image" src="https://github.com/user-attachments/assets/01c13bdb-da07-4320-b33a-4e517c87858b" />
+<img width="886" height="431" alt="image" src="https://github.com/user-attachments/assets/0bbaa559-41f9-446b-8732-ea5b8b5af5ae" />
+<img width="886" height="418" alt="image" src="https://github.com/user-attachments/assets/4a5c8241-9f19-4e42-a0d5-fc6c680c7b64" />
 
 ### O que cada métrica significa
 
