@@ -2,8 +2,6 @@
 
 Aplicação front-end desenvolvida para a disciplina **Front-end Engineering** (FIAP). O projeto consome um **BFF (Backend For Frontend)** em Node.js/Express integrado à OpenAI para buscar palavras em inglês, e transforma o resultado em um **jogo da memória**: o jogador combina cada palavra ao seu significado.
 
-> ⚠️ **Preencha os campos marcados com `[ ]` antes de entregar o trabalho.**
-
 ## 👥 Integrantes
 
 - Ailton Lima de Andrade - RM365720
