@@ -119,20 +119,21 @@ Métricas
 
 <img width="886" height="442" alt="image" src="https://github.com/user-attachments/assets/c30a9935-33dd-4e2b-80c7-35af9a17b685" />
 <img width="886" height="435" alt="image" src="https://github.com/user-attachments/assets/82f3d962-26b8-4487-aca1-07c449904c7c" />
-<img width="886" height="436" alt="image" src="https://github.com/user-attachments/assets/01c13bdb-da07-4320-b33a-4e517c87858b" />
-<img width="886" height="431" alt="image" src="https://github.com/user-attachments/assets/0bbaa559-41f9-446b-8732-ea5b8b5af5ae" />
-<img width="886" height="418" alt="image" src="https://github.com/user-attachments/assets/4a5c8241-9f19-4e42-a0d5-fc6c680c7b64" />
-
 ### O que cada métrica significa
 
 | Métrica | O que mede |
 | --- | --- |
 | **LCP** (*Largest Contentful Paint*) | Tempo até o maior elemento visível da página (ex.: título, imagem principal) ser renderizado. Indica a percepção de "carregamento rápido". |
 | **CLS** (*Cumulative Layout Shift*) | Quanto os elementos da tela "pulam" de posição durante o carregamento. Valores altos indicam uma experiência instável/visualmente incômoda. |
-| **INP** (*Interaction to Next Paint*) | Tempo entre uma interação do usuário (clique, toque) e a próxima atualização visual da tela. Mede a responsividade da interface. |
 | **FCP** (*First Contentful Paint*) | Tempo até o primeiro conteúdo (texto, imagem) aparecer na tela. |
 | **TBT** (*Total Blocking Time*) | Tempo total em que a thread principal ficou bloqueada, impedindo o navegador de responder a interações do usuário. |
 | **Speed Index** | Velocidade com que o conteúdo visível da página é preenchido durante o carregamento. |
+
+<img width="886" height="436" alt="image" src="https://github.com/user-attachments/assets/01c13bdb-da07-4320-b33a-4e517c87858b" />
+<img width="886" height="431" alt="image" src="https://github.com/user-attachments/assets/0bbaa559-41f9-446b-8732-ea5b8b5af5ae" />
+<img width="886" height="418" alt="image" src="https://github.com/user-attachments/assets/4a5c8241-9f19-4e42-a0d5-fc6c680c7b64" />
+
+
 
 ## 📝 Licença
 
