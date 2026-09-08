@@ -117,6 +117,9 @@ Endpoint e método ficam fixos como constantes em `src/App.jsx` (`BFF_ENDPOINT` 
 Métricas
 [Monitoring.pdf](https://github.com/user-attachments/files/31958773/Monitoring.pdf)
 
+<img width="886" height="442" alt="image" src="https://github.com/user-attachments/assets/c30a9935-33dd-4e2b-80c7-35af9a17b685" />
+
+
 
 ### O que cada métrica significa
 
