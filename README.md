@@ -112,9 +112,11 @@ Endpoint e método ficam fixos como constantes em `src/App.jsx` (`BFF_ENDPOINT` 
 
 ## 📊 Web Vitals (Lighthouse) — ponto extra
 
-> Rode uma auditoria no [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) (aba *Lighthouse* do DevTools do Chrome, ou [PageSpeed Insights](https://pagespeed.web.dev/)) sobre a URL publicada e cole o print/PDF do relatório abaixo.
+> Auditoria executada utilizando o Lighthouse do Chrome
 
-[ ] _Inserir aqui o print ou PDF do relatório do Lighthouse_
+Métricas
+[Monitoring.pdf](https://github.com/user-attachments/files/31958773/Monitoring.pdf)
+
 
 ### O que cada métrica significa
 
