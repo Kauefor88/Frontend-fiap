@@ -28,7 +28,7 @@ O app oferece uma interface para:
 
 ## 🎮 Como jogar
 
-1. Clique em "Buscar palavras e jogar" — a aplicação busca palavras direto no BFF, sem precisar digitar nenhum tema.
+1. Clique em "Buscar palavras e jogar" — a aplicação busca palavras direto no BFF.
 2. As cartas aparecem viradas para baixo, embaralhadas.
 3. Clique em duas cartas por vez: se uma "Palavra" e uma "Significado" pertencerem à mesma entrada, o par fica combinado e você vê um exemplo de uso da palavra.
 4. Se não combinarem, as cartas voltam a ficar viradas para baixo.
@@ -105,7 +105,7 @@ Endpoint e método ficam fixos como constantes em `src/App.jsx` (`BFF_ENDPOINT` 
 1. Suba o projeto para um repositório público no GitHub.
 2. Conecte o repositório à plataforma de deploy escolhida (Netlify, Vercel ou Render).
 3. Configure o **comando de build** como `npm run build` e o **diretório de saída** como `dist`.
-4. [ ] Preencher aqui a URL pública do site após o deploy: `https://frontend-fiap-cltg4cs3n-kauefor.vercel.app/`
+4. URL pública do site: `https://frontend-fiap-cltg4cs3n-kauefor.vercel.app/`
 
 
 ## 📊 Web Vitals (Lighthouse) — ponto extra
